@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore training data because folder is too large
 dogs-vs-cats/
+
+# Ignore all jpg files
+**/*.jpg
